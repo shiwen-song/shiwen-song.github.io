@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shiwen Song (宋世文) is a Ph.D. student at [Singapore Management University (SMU)](https://www.smu.edu.sg/). <!-- TODO: advisor, e.g. working with Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) -->
+Shiwen Song (宋师文) is a Ph.D. student at [Singapore Management University (SMU)](https://www.smu.edu.sg/). <!-- TODO: advisor, e.g. working with Prof. [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) -->
 
 His research interests include mobile app security and testing, with a focus on Android malware detection, robustness of learning-based detectors, GUI test repair, LLM-assisted app testing, and malicious package detection. 
 [<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">](https://scholar.google.com/citations?user=Sqhoo9AAAAAJ)
 
 # 📖 Educations
 - *20XX.XX - Present*, Ph.D. in Computer Science, **Singapore Management University**.
-- *20XX.XX - 20XX.XX*, M.S./B.S. in XXX, **Your University**.
+- *2020.09 - 2023.06*, M.S. in Software Engineering, **Nanjing University**. Ranking 7/17.
+- *2016.09 - 2020.06*, B.S. in Software Engineering, **Henan University**. Ranking 1/528.
 
 # 🔥 News
 - *2026*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026.
@@ -59,4 +60,13 @@ His research interests include mobile app security and testing, with a focus on 
   IEEE Global Communications Conference
 
 # 🎖 Honors and Awards
-- *20XX.XX* Add your awards here.
+- *Nanjing University*: First Prize and Second Prize (×2) of Postgraduate Academic Scholarship; Outstanding Graduate Student.
+- *Henan University*: National Encouragement Scholarship (×2); Henan University Scholarship (×2); Social Endowment Scholarship; Excellent Graduate.
+- *2019* National Second Prize, MathorCup Mathematical Modeling Challenge.
+- *2018* National Second Prize, CUMCM (China Undergraduate Mathematical Contest in Modeling).
+- *2018* National Third Prize, Teddy Cup Data Mining Challenge.
+- *2019* Provincial Second Prize, Blue Bridge Cup (Java).
+- Two national invention patents.
+
+# 💻 Internships
+- *2022.05 - 2022.08*, **ByteDance**, Beijing. Big Data Development, Monetization / Data Warehouse.
