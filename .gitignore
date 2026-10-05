@@ -5,3 +5,4 @@ push.sh
 # private files, never publish
 *.pdf
 !assets/**/*.pdf
+Weixin*
