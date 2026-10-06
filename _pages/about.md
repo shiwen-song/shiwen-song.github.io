@@ -29,40 +29,33 @@ Her research interests include mobile app security and testing, with a focus on 
 # 📝 Publications
 <sup>&#42;</sup> denotes corresponding author.
 
-- **From Signals to Behaviors: Evidence-Based Android Malware Detection** <span class="bdg"><span class="l">Preprint</span><span class="o">arXiv</span></span>  
+- **[From Signals to Behaviors: Evidence-Based Android Malware Detection](https://arxiv.org/abs/2607.23272)** <span class="bdg"><span class="l">Preprint</span><span class="o">arXiv</span></span>  
   **Shiwen Song**, Yiheng Xiong, Sen Chen, Xiaofei Xie<br>
-  arXiv preprint, 2026<br>
-  [[arXiv]](https://arxiv.org/abs/2607.23272) [[pdf]](https://arxiv.org/pdf/2607.23272)
+  arXiv preprint, 2026
 
-- **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
+- **[PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps](https://arxiv.org/abs/2604.13463)** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Yiheng Xiong, **Shiwen Song**<sup>&#42;</sup>, Bo Ma, Ting Su, Xiaofei Xie<br>
-  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026<br>
-  [[arXiv]](https://arxiv.org/abs/2604.13463) [[pdf]](https://arxiv.org/pdf/2604.13463)
+  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
-- **How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
+- **[How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study](https://arxiv.org/abs/2603.27549)** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, **Shiwen Song**, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu<br>
-  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026<br>
-  [[arXiv]](https://arxiv.org/abs/2603.27549) [[pdf]](https://arxiv.org/pdf/2603.27549)
+  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
-- **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
+- **[Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution](https://doi.org/10.1145/3832300)** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
   **Shiwen Song**, Yiheng Xiong, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
-  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026<br>
-  [[ACM]](https://doi.org/10.1145/3832300)
+  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
 
-- **Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
+- **[Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages](https://doi.org/10.1145/3774904.3792083)** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Wenbo Guo, **Shiwen Song**, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu<br>
-  The Web Conference (WWW), 2026<br>
-  [[ACM]](https://doi.org/10.1145/3774904.3792083)
+  The Web Conference (WWW), 2026
 
-- **FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
+- **[FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection](https://doi.org/10.1109/TSE.2025.3626788)** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Shiwen Song**, Xiaofei Xie, Ruitao Feng, Qi Guo, Sen Chen<br>
-  IEEE Transactions on Software Engineering (TSE), 2025<br>
-  [[IEEE]](https://doi.org/10.1109/TSE.2025.3626788)
+  IEEE Transactions on Software Engineering (TSE), 2025
 
-- **Visible Forensic Investigation for Android Applications by Using Attack Scenario Reconstruction** <span class="bdg"><span class="l">CCF</span><span class="c">C</span></span>  
+- **[Visible Forensic Investigation for Android Applications by Using Attack Scenario Reconstruction](https://doi.org/10.1109/GLOBECOM46510.2021.9685748)** <span class="bdg"><span class="l">CCF</span><span class="c">C</span></span>  
   **Shiwen Song**, Xuanyu Liu, Xiao Fu, Bin Luo, Xiaojiang Du, Mohsen Guizani<br>
-  IEEE Global Communications Conference (GLOBECOM), 2021<br>
-  [[IEEE]](https://doi.org/10.1109/GLOBECOM46510.2021.9685748)
+  IEEE Global Communications Conference (GLOBECOM), 2021
 
 # 📜 Patents
 - **A Privacy Protection Method and System Preventing Misbehaving Mini-Apps Based on Deep Learning** (基于深度学习防止行为不端小程序的隐私保护方法及系统)  
