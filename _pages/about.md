@@ -23,7 +23,7 @@ Her research interests include mobile app security and testing, with a focus on 
 
 # 📖 Educations
 - *2024.01 - Present*, Ph.D. in Computer Science, **Singapore Management University**, supervised by Prof. [Xiaofei Xie](https://scholar.google.com/citations?user=FfcZfJgAAAAJ&hl=zh-CN&oi=ao).
-- *2020.09 - 2023.06*, M.S. in Software Engineering, **Nanjing University**. Ranking 7/17.
+- *2020.09 - 2023.06*, M.S. in Software Engineering, **Nanjing University**.
 - *2016.09 - 2020.06*, B.S. in Software Engineering, **Henan University**. Ranking 1/528.
 
 # 🔥 News
