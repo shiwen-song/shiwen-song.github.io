@@ -64,6 +64,15 @@ Her research interests include mobile app security and testing, with a focus on 
   IEEE Global Communications Conference (GLOBECOM), 2021<br>
   [[IEEE]](https://doi.org/10.1109/GLOBECOM46510.2021.9685748)
 
+# 📜 Patents
+- **A Visual Forensic System and Implementation Method for Android Attack Scenario Reconstruction** (一种用于安卓攻击场景重建的可视化取证系统及实现方法)  
+  Xiao Fu, **Shiwen Song**, Tianchi Wu, Xuanyu Liu, Bin Luo<br>
+  Chinese invention patent, Application No. 2021106747615 (Granted)
+
+- **A Privacy Protection Method and System Preventing Misbehaving Mini-Apps Based on Deep Learning** (基于深度学习防止行为不端小程序的隐私保护方法及系统)  
+  Xiao Fu, **Shiwen Song**, Yuzhu Sun, Xuanyu Liu, Bin Luo<br>
+  Chinese invention patent, Application No. 202211100283.8
+
 # 🎖 Honors and Awards
 - *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
 - *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
@@ -71,7 +80,6 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
 - *Nanjing University*: First Prize and Second Prize (×2) of Postgraduate Academic Scholarship; Outstanding Graduate Student.
 - *Henan University*: National Encouragement Scholarship (×2); Henan University Scholarship (×2); Social Endowment Scholarship; Excellent Graduate.
-- Two national invention patents.
 
 # 💻 Internships
 - *2022.05 - 2022.08*, **ByteDance**, Beijing. Big Data Development, Monetization / Data Warehouse.
