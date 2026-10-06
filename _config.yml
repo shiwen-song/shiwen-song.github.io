@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiwen Song"
-description              : "Shiwen Song - Singapore Management University. Mobile app security, Android malware detection, GUI testing."
+description              : "Shiwen Song (宋师文) is a Ph.D. student at Singapore Management University (SMU), supervised by Prof. Xiaofei Xie. Research on Android security, malware detection, GUI testing and LLM for software engineering."
 repository               : "shiwen-song/shiwen-song.github.io"
 google_scholar_stats_use_cdn : true
 
