@@ -74,7 +74,6 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
 - *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
 - *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
-- *Nanjing University*: Outstanding Graduate Student.
 - *Henan University*: National Encouragement Scholarship (×2); Henan University Scholarship (×2); Social Endowment Scholarship; Excellent Graduate.
 
 # 💻 Internships
