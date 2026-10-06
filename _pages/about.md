@@ -36,32 +36,33 @@ His research interests include mobile app security and testing, with a focus on 
 # 📝 Publications
 <sup>&#42;</sup> denotes corresponding author.
 
-- [Preprint, arXiv] **From Signals to Behaviors: Evidence-Based Android Malware Detection**  
-  **Shiwen Song**, Yiheng Xiong, Sen Chen, Xiaofei Xie  
+- **From Signals to Behaviors: Evidence-Based Android Malware Detection** <span class="bdg"><span class="l">Preprint</span><span class="o">arXiv</span></span>  
+  **Shiwen Song**, Yiheng Xiong, Sen Chen, Xiaofei Xie<br>
+  arXiv preprint, 2026
 
-- [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
+- **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Yiheng Xiong, **Shiwen Song**<sup>&#42;</sup>, Bo Ma, Ting Su, Xiaofei Xie<br>
-  ACM/IEEE International Conference on Automated Software Engineering
+  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
-- [ASE 2026] **Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis**  
-  W. Guo, Z. Chen, Z. Xu, C. Liu, M. Kang, **S. Song**, C. Liu, Y. Xu, W. Sun, Y. Liu<br>
-  ACM/IEEE International Conference on Automated Software Engineering
+- **How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
+  Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, **Shiwen Song**, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu<br>
+  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
-- [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
-  **Shiwen Song**, Yiheng Xiong, Wenbo Guo, M. Sun, J. Kong, Xiaofei Xie<br>
-  Proceedings of the ACM on Software Engineering (ISSTA)
+- **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
+  **Shiwen Song**, Yiheng Xiong, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
+  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
 
-- [WWW 2026] **Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages**  
-  W. Guo, **S. Song**, J. Guo, Z. Xu, C. Liu, H. Ou, M. Ge, Y. Liu<br>
-  Proceedings of the ACM Web Conference 2026
+- **Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
+  Wenbo Guo, **Shiwen Song**, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu<br>
+  The Web Conference (WWW), 2026
 
-- [IEEE TSE 2025] **FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection**  
+- **FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Shiwen Song**, Xiaofei Xie, Ruitao Feng, Qi Guo, Sen Chen<br>
-  IEEE Transactions on Software Engineering
+  IEEE Transactions on Software Engineering (TSE), 2025
 
-- [GLOBECOM 2021] **Visible Forensic Investigation for Android Applications by Using Attack Scenario Reconstruction**  
-  **Shiwen Song**, Xiaotao Liu, Xiaoming Fu, Bin Luo, Xiaojiang Du, Mohsen Guizani<br>
-  IEEE Global Communications Conference
+- **Visible Forensic Investigation for Android Applications by Using Attack Scenario Reconstruction** <span class="bdg"><span class="l">CCF</span><span class="c">C</span></span>  
+  **Shiwen Song**, Xuanyu Liu, Xiao Fu, Bin Luo, Xiaojiang Du, Mohsen Guizani<br>
+  IEEE Global Communications Conference (GLOBECOM), 2021
 
 # 🎖 Honors and Awards
 - *Nanjing University*: First Prize and Second Prize (×2) of Postgraduate Academic Scholarship; Outstanding Graduate Student.
