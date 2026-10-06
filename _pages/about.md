@@ -31,6 +31,7 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2026.09*: &nbsp;🏆 ISSTA 2026 paper received the ACM SIGSOFT Distinguished Paper Award (19 of 888 submissions, top 2.1%).
 - *2026.07*: &nbsp;🎉 Two papers accepted to ASE 2026 (263 of 1,304 submissions, 20.2% acceptance rate).
 - *2026.07*: &nbsp;🏆 Received the SMU Research Excellence Award.
+- *2026.07*: &nbsp;✈️ Received an ACM SIGSOFT CAPS travel grant to attend ASE 2026 in person.
 - *2026.04*: &nbsp;🎉 One paper directly accepted to ISSTA 2026, without major revision (90 of 888 submissions were directly accepted, 10.1%).
 - *2026.01*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026 (676 of 3,370 valid submissions, 20.1% acceptance rate).
 - *2025.10*: &nbsp;🎉 One paper accepted to IEEE TSE.
