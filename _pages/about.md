@@ -100,7 +100,7 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2017 - 2019*: &nbsp;🌟 Excellent Class Leader (×3), Henan University.
 - *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
 - *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
-- *2018*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (C/C++).
+- *2018*: &nbsp;🎖 Provincial Second Prize, [Blue Bridge Cup](https://sites.lynu.edu.cn/__local/1/9C/D7/36C2B58938AD265D72F0762C4EC_432D1A75_1E860D.pdf) (C/C++).
 - *2018*: &nbsp;🎓 National Encouragement Scholarship, Henan University.
 - *2017*: &nbsp;🎓 Henan University Scholarship, Henan University.
 
