@@ -18,8 +18,5 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Honors"
-    url: "/#-honors"
-
-  - title: "Awards"
-    url: "/#-awards"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
