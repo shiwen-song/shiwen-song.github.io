@@ -28,6 +28,7 @@ His research interests include mobile app security and testing, with a focus on 
 - *2016.09 - 2020.06*, B.S. in Software Engineering, **Henan University**. Ranking 1/528.
 
 # 🔥 News
+- *2026*: &nbsp;🎉 Two papers accepted to ASE 2026.
 - *2026*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026.
 - *2026*: &nbsp;🎉 One paper published at ISSTA 2026.
 - *2025*: &nbsp;🎉 One paper published in IEEE TSE.
@@ -37,11 +38,13 @@ His research interests include mobile app security and testing, with a focus on 
 - [Preprint, arXiv] **From Signals to Behaviors: Evidence-Based Android Malware Detection**  
   **Shiwen Song**, Yiheng Xiong, Sen Chen, Xiaofei Xie  
 
-- [Preprint, arXiv] **From Exploration to Specification: LLM-Based Property Generation for Mobile App Testing**  
-  Yiheng Xiong, **Shiwen Song**, Bo Ma, Ting Su, Xiaofei Xie  
+- [ASE 2026] **From Exploration to Specification: LLM-Based Property Generation for Mobile App Testing**  
+  Yiheng Xiong, **Shiwen Song**, Bo Ma, Ting Su, Xiaofei Xie<br>
+  ACM/IEEE International Conference on Automated Software Engineering
 
-- [Preprint, arXiv] **Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis**  
-  W. Guo, Z. Chen, Z. Xu, C. Liu, M. Kang, **S. Song**, C. Liu, Y. Xu, W. Sun, Y. Liu  
+- [ASE 2026] **Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis**  
+  W. Guo, Z. Chen, Z. Xu, C. Liu, M. Kang, **S. Song**, C. Liu, Y. Xu, W. Sun, Y. Liu<br>
+  ACM/IEEE International Conference on Automated Software Engineering
 
 - [ISSTA 2026] **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution**  
   **Shiwen Song**, Yiheng Xiong, Wenbo Guo, M. Sun, J. Kong, Xiaofei Xie<br>
