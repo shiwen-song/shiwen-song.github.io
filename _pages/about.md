@@ -34,12 +34,13 @@ His research interests include mobile app security and testing, with a focus on 
 - *2025*: &nbsp;🎉 One paper published in IEEE TSE.
 
 # 📝 Publications
+<sup>✉</sup> denotes corresponding author.
 
 - [Preprint, arXiv] **From Signals to Behaviors: Evidence-Based Android Malware Detection**  
   **Shiwen Song**, Yiheng Xiong, Sen Chen, Xiaofei Xie  
 
 - [ASE 2026] **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps**  
-  Yiheng Xiong, **Shiwen Song**, Bo Ma, Ting Su, Xiaofei Xie<br>
+  Yiheng Xiong, **Shiwen Song**<sup>✉</sup>, Bo Ma, Ting Su, Xiaofei Xie<br>
   ACM/IEEE International Conference on Automated Software Engineering
 
 - [ASE 2026] **Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis**  
