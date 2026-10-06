@@ -97,7 +97,7 @@ Her research interests include mobile app security and testing, with a focus on 
 </details>
 
 # 🏆 Awards
-- *2026.09*: &nbsp;🏅 ACM SIGSOFT Distinguished Paper Award, ISSTA 2026, for [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution](https://doi.org/10.1145/3832300).
+- *2026.09*: &nbsp;🏅 ACM SIGSOFT Distinguished Paper Award, ISSTA 2026.
 - *2026.07*: &nbsp;🏅 Research Excellence Award, Singapore Management University.
 - *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
 - *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
