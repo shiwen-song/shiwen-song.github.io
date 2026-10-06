@@ -87,15 +87,17 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2020*: &nbsp;🎓 First Prize, Postgraduate Academic Scholarship, Nanjing University.
 
 <details markdown="1">
-<summary>Show more (12)</summary>
+<summary>Show more (14)</summary>
 
 - *2020*: &nbsp;🎓 Henan University Scholarship, Henan University.
 - *2020*: &nbsp;🌟 Excellent Graduate, Henan University.
-- *2017 - 2020*: &nbsp;🌟 Excellent Class Leader (×3), Henan University.
+- *2020*: &nbsp;🌟 Outstanding Undergraduate Thesis Award, Henan University.
 - *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
 - *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
+- *2019*: &nbsp;🎖 Provincial Third Prize, [Challenge Cup Extracurricular Academic and Technological Works Competition](https://yxy.hactcm.edu.cn/__local/6/75/DF/865C25EBD4F0E567249E12DCDB2_EBDD0534_1B1DC1.pdf), Henan Province.
 - *2019*: &nbsp;🎓 National Encouragement Scholarship, Henan University.
 - *2019*: &nbsp;🎓 [Daoxing Scholarship](https://edf.henu.edu.cn/news/news/show-2308.html), Henan University.
+- *2017 - 2019*: &nbsp;🌟 Excellent Class Leader (×3), Henan University.
 - *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
 - *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
 - *2018*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (C/C++).
