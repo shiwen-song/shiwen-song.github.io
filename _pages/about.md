@@ -53,19 +53,23 @@ His research interests include mobile app security and testing, with a focus on 
 
 - **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
   **Shiwen Song**, Yiheng Xiong, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
-  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
+  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026<br>
+  [[ACM]](https://doi.org/10.1145/3832300)
 
 - **Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Wenbo Guo, **Shiwen Song**, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu<br>
-  The Web Conference (WWW), 2026
+  The Web Conference (WWW), 2026<br>
+  [[ACM]](https://doi.org/10.1145/3774904.3792083)
 
 - **FCGHunter: Towards Evaluating Robustness of Graph-Based Android Malware Detection** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span>  
   **Shiwen Song**, Xiaofei Xie, Ruitao Feng, Qi Guo, Sen Chen<br>
-  IEEE Transactions on Software Engineering (TSE), 2025
+  IEEE Transactions on Software Engineering (TSE), 2025<br>
+  [[IEEE]](https://doi.org/10.1109/TSE.2025.3626788)
 
 - **Visible Forensic Investigation for Android Applications by Using Attack Scenario Reconstruction** <span class="bdg"><span class="l">CCF</span><span class="c">C</span></span>  
   **Shiwen Song**, Xuanyu Liu, Xiao Fu, Bin Luo, Xiaojiang Du, Mohsen Guizani<br>
-  IEEE Global Communications Conference (GLOBECOM), 2021
+  IEEE Global Communications Conference (GLOBECOM), 2021<br>
+  [[IEEE]](https://doi.org/10.1109/GLOBECOM46510.2021.9685748)
 
 # 🎖 Honors and Awards
 - *Nanjing University*: First Prize and Second Prize (×2) of Postgraduate Academic Scholarship; Outstanding Graduate Student.
