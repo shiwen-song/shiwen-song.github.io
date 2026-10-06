@@ -20,7 +20,6 @@ redirect_from:
 Shiwen Song (宋师文) is a Ph.D. student at [Singapore Management University (SMU)](https://www.smu.edu.sg/). She is supervised by Prof. [Xiaofei Xie](https://scholar.google.com/citations?user=FfcZfJgAAAAJ&hl=zh-CN&oi=ao).
 
 Her research interests include mobile app security and testing, with a focus on Android malware detection, robustness of learning-based detectors, GUI test repair, LLM-assisted app testing, and malicious package detection. 
-[<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">](https://scholar.google.com/citations?user=Sqhoo9AAAAAJ)
 
 # 📖 Educations
 - *2024.01 - Present*, Ph.D. in Computer Science, **Singapore Management University**, supervised by Prof. [Xiaofei Xie](https://scholar.google.com/citations?user=FfcZfJgAAAAJ&hl=zh-CN&oi=ao).
