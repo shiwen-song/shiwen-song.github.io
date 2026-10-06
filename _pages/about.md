@@ -70,12 +70,13 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2022.05 - 2022.08*, **ByteDance**, Beijing. Big Data Development, Monetization / Data Warehouse.
 
 # 🌟 Honors
-<details markdown="1">
-<summary>Scholarships and honors (10) — click to expand</summary>
-
 - *2022*: &nbsp;🎓 Second Prize, Postgraduate Academic Scholarship, Nanjing University.
 - *2021*: &nbsp;🎓 Second Prize, Postgraduate Academic Scholarship, Nanjing University.
 - *2020*: &nbsp;🎓 First Prize, Postgraduate Academic Scholarship, Nanjing University.
+
+<details markdown="1">
+<summary>Show more (7)</summary>
+
 - *2020*: &nbsp;🎓 Henan University Scholarship, Henan University.
 - *2020*: &nbsp;🌟 Excellent Graduate, Henan University.
 - *2017 - 2020*: &nbsp;🌟 Excellent Class Leader (×3), Henan University.
