@@ -31,7 +31,7 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2026*: &nbsp;🎉 Two papers accepted to ASE 2026.
 - *2026*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026.
 - *2026*: &nbsp;🎉 One paper published at ISSTA 2026.
-- *2025.11*: &nbsp;🎉 One paper published in IEEE TSE.
+- *2025*: &nbsp;🎉 One paper published in IEEE TSE.
 
 # 📝 Publications
 <sup>&#42;</sup> denotes corresponding author.
