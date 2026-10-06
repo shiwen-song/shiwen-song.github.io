@@ -27,6 +27,7 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2016.09 - 2020.06*, B.S. in Software Engineering, **Henan University**. Ranking 1/528.
 
 # 🔥 News
+- *2026.10*: &nbsp;✈️ I will attend [ASE 2026](https://conf.researchr.org/home/ase-2026) in Munich, Germany (Oct 12–16).
 - *2026.07*: &nbsp;🎉 Two papers accepted to ASE 2026 after major revision (263 of 1,304 submissions, 20.2% acceptance rate).
 - *2026*: &nbsp;🏆 ISSTA 2026 paper received ACM SIGSOFT Distinguished Paper Award.
 - *2026.01*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026 (676 of 3,370 valid submissions, 20.1% acceptance rate).
