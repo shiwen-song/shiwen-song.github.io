@@ -72,12 +72,12 @@ Her research interests include mobile app security and testing, with a focus on 
   [[IEEE]](https://doi.org/10.1109/GLOBECOM46510.2021.9685748)
 
 # 🎖 Honors and Awards
+- *2019*: &nbsp;🏆 National Second Prize, MathorCup Mathematical Modeling Challenge.
+- *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
+- *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
+- *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
 - *Nanjing University*: First Prize and Second Prize (×2) of Postgraduate Academic Scholarship; Outstanding Graduate Student.
 - *Henan University*: National Encouragement Scholarship (×2); Henan University Scholarship (×2); Social Endowment Scholarship; Excellent Graduate.
-- *2019* National Second Prize, MathorCup Mathematical Modeling Challenge.
-- *2018* National Second Prize, CUMCM (China Undergraduate Mathematical Contest in Modeling).
-- *2018* National Third Prize, Teddy Cup Data Mining Challenge.
-- *2019* Provincial Second Prize, Blue Bridge Cup (Java).
 - Two national invention patents.
 
 # 💻 Internships
