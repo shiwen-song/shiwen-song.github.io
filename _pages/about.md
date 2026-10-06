@@ -66,22 +66,24 @@ Her research interests include mobile app security and testing, with a focus on 
   Xiao Fu, **Shiwen Song**, Tianchi Wu, Xuanyu Liu, Bin Luo<br>
   Chinese invention patent CN 113569234 B (Application No. 202110674761.5), granted Nov. 3, 2023. Assignee: Nanjing University
 
-# 🎖 Honors and Awards
+# 💻 Internships
+- *2022.05 - 2022.08*, **ByteDance**, Beijing. Big Data Development, Monetization / Data Warehouse.
+
+# 🌟 Honors
 - *2022*: &nbsp;🎓 Second Prize, Postgraduate Academic Scholarship, Nanjing University.
 - *2021*: &nbsp;🎓 Second Prize, Postgraduate Academic Scholarship, Nanjing University.
 - *2020*: &nbsp;🎓 First Prize, Postgraduate Academic Scholarship, Nanjing University.
 - *2020*: &nbsp;🎓 Henan University Scholarship, Henan University.
 - *2020*: &nbsp;🌟 Excellent Graduate, Henan University.
 - *2017 - 2020*: &nbsp;🌟 Excellent Class Leader (×3), Henan University.
-- *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
-- *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
 - *2019*: &nbsp;🎓 National Encouragement Scholarship, Henan University.
 - *2019*: &nbsp;🎓 Social Endowment Scholarship, Henan University.
-- *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
-- *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
-- *2018*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (C/C++).
 - *2018*: &nbsp;🎓 National Encouragement Scholarship, Henan University.
 - *2017*: &nbsp;🎓 Henan University Scholarship, Henan University.
 
-# 💻 Internships
-- *2022.05 - 2022.08*, **ByteDance**, Beijing. Big Data Development, Monetization / Data Warehouse.
+# 🏆 Awards
+- *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
+- *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
+- *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
+- *2018*: &nbsp;🏆 National Third Prize, [Teddy Cup Data Mining Challenge](https://www.tipdm.org/hjmdsi/1434.jhtml).
+- *2018*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (C/C++).
