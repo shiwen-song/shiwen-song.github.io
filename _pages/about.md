@@ -30,6 +30,7 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2026.10*: &nbsp;✈️ I will attend [ASE 2026](https://conf.researchr.org/home/ase-2026) in Munich, Germany (Oct 12–16).
 - *2026.09*: &nbsp;🏆 ISSTA 2026 paper received the ACM SIGSOFT Distinguished Paper Award (19 of 888 submissions, top 2.1%).
 - *2026.07*: &nbsp;🎉 Two papers accepted to ASE 2026 (263 of 1,304 submissions, 20.2% acceptance rate).
+- *2026.07*: &nbsp;🏆 Received the SMU Research Excellence Award.
 - *2026.04*: &nbsp;🎉 One paper directly accepted to ISSTA 2026, without major revision (90 of 888 submissions were directly accepted, 10.1%).
 - *2026.01*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026 (676 of 3,370 valid submissions, 20.1% acceptance rate).
 - *2025.10*: &nbsp;🎉 One paper accepted to IEEE TSE.
@@ -96,6 +97,8 @@ Her research interests include mobile app security and testing, with a focus on 
 </details>
 
 # 🏆 Awards
+- *2026.09*: &nbsp;🏅 ACM SIGSOFT Distinguished Paper Award, ISSTA 2026, for [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution](https://doi.org/10.1145/3832300).
+- *2026.07*: &nbsp;🏅 Research Excellence Award, Singapore Management University.
 - *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
 - *2019*: &nbsp;🎖 Provincial Second Prize, Blue Bridge Cup (Java).
 - *2018*: &nbsp;🏆 National Second Prize, [CUMCM (China Undergraduate Mathematical Contest in Modeling)](https://www.mcm.edu.cn/html_cn/node/dd90065fedda4e78cd4d0b154c2d77a9.html).
