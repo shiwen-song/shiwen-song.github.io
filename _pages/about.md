@@ -26,12 +26,6 @@ Her research interests include mobile app security and testing, with a focus on 
 - *2020.09 - 2023.06*, M.S. in Software Engineering, **Nanjing University**.
 - *2016.09 - 2020.06*, B.S. in Software Engineering, **Henan University**. Ranking 1/528.
 
-# 🔥 News
-- *2026*: &nbsp;🎉 Two papers accepted to ASE 2026.
-- *2026*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026.
-- *2026*: &nbsp;🎉 One paper published at ISSTA 2026.
-- *2025*: &nbsp;🎉 One paper published in IEEE TSE.
-
 # 📝 Publications
 <sup>&#42;</sup> denotes corresponding author.
 
