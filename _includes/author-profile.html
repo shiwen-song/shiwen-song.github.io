@@ -213,14 +213,4 @@
     </div>
   </div>
 
-  {% if site.collaborators and site.collaborators.size > 0 %}
-  <div class="author__collab">
-    <p class="author__collab-title">Collaborators</p>
-    <ul>
-      {% for c in site.collaborators %}
-        <li><a href="{{ c.url }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-user-friends" aria-hidden="true"></i> {{ c.name }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
 </div>
