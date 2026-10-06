@@ -65,13 +65,13 @@ Her research interests include mobile app security and testing, with a focus on 
   [[IEEE]](https://doi.org/10.1109/GLOBECOM46510.2021.9685748)
 
 # 📜 Patents
-- **A Visual Forensic System and Implementation Method for Android Attack Scenario Reconstruction** (一种用于安卓攻击场景重建的可视化取证系统及实现方法)  
-  Xiao Fu, **Shiwen Song**, Tianchi Wu, Xuanyu Liu, Bin Luo<br>
-  Chinese invention patent, Application No. 2021106747615 (Granted)
-
 - **A Privacy Protection Method and System Preventing Misbehaving Mini-Apps Based on Deep Learning** (基于深度学习防止行为不端小程序的隐私保护方法及系统)  
   Xiao Fu, **Shiwen Song**, Yuzhu Sun, Xuanyu Liu, Bin Luo<br>
-  Chinese invention patent, Application No. 202211100283.8
+  Chinese invention patent CN 115455474 B (Application No. 202211100283.8), granted May 1, 2026. Assignee: Nanjing University
+
+- **A Visual Forensic System and Implementation Method for Android Attack Scenario Reconstruction** (一种用于安卓攻击场景重建的可视化取证系统及实现方法)  
+  Xiao Fu, **Shiwen Song**, Tianchi Wu, Xuanyu Liu, Bin Luo<br>
+  Chinese invention patent CN 113569234 B (Application No. 202110674761.5), granted Nov. 3, 2023. Assignee: Nanjing University
 
 # 🎖 Honors and Awards
 - *2019*: &nbsp;🏆 National Second Prize, [MathorCup Mathematical Modeling Challenge](https://www.saikr.com/c/nd/6142).
