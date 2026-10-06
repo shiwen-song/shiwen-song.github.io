@@ -19,7 +19,7 @@ redirect_from:
 
 Shiwen Song (宋师文) is a Ph.D. student at [Singapore Management University (SMU)](https://www.smu.edu.sg/), supervised by Prof. [Xiaofei Xie](https://scholar.google.com/citations?user=FfcZfJgAAAAJ&hl=zh-CN&oi=ao).
 
-Her research focuses on the security and testing of mobile apps and software supply chains, using program analysis and LLMs.
+Her research focuses on the security and testing of mobile apps and software supply chains, using program analysis and LLMs. Feel free to [get in touch](mailto:swsong@smu.edu.sg) if you are interested in collaboration!
 
 # 📖 Educations
 - *2024.01 - Present*, Ph.D. in Computer Science, **Singapore Management University**.
