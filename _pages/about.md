@@ -38,15 +38,18 @@ His research interests include mobile app security and testing, with a focus on 
 
 - **From Signals to Behaviors: Evidence-Based Android Malware Detection** <span class="bdg"><span class="l">Preprint</span><span class="o">arXiv</span></span>  
   **Shiwen Song**, Yiheng Xiong, Sen Chen, Xiaofei Xie<br>
-  arXiv preprint, 2026
+  arXiv preprint, 2026<br>
+  [[arXiv]](https://arxiv.org/abs/2607.23272) [[pdf]](https://arxiv.org/pdf/2607.23272)
 
 - **PropGen: Automated Property Generation for Property-Based Testing of Mobile Apps** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Yiheng Xiong, **Shiwen Song**<sup>&#42;</sup>, Bo Ma, Ting Su, Xiaofei Xie<br>
-  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
+  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026<br>
+  [[arXiv]](https://arxiv.org/abs/2604.13463) [[pdf]](https://arxiv.org/pdf/2604.13463)
 
 - **How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span>  
   Wenbo Guo, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, **Shiwen Song**, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu<br>
-  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
+  41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026<br>
+  [[arXiv]](https://arxiv.org/abs/2603.27549) [[pdf]](https://arxiv.org/pdf/2603.27549)
 
 - **Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution** <span class="bdg"><span class="l">CCF</span><span class="r">A</span></span><span class="bdg"><span class="l">CORE</span><span class="r">A*</span></span><span class="bdg"><span class="l">ACM SIGSOFT</span><span class="g">Distinguished Paper Award</span></span>  
   **Shiwen Song**, Yiheng Xiong, Wenbo Guo, Manqi Sun, Jiaolong Kong, Xiaofei Xie<br>
