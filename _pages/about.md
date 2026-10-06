@@ -29,9 +29,9 @@ Her research interests include mobile app security and testing, with a focus on 
 # 🔥 News
 - *2026*: &nbsp;🎉 Two papers accepted to ASE 2026.
 - *2026*: &nbsp;🏆 ISSTA 2026 paper received ACM SIGSOFT Distinguished Paper Award.
-- *2026*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026.
+- *2026.01*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026 (676 of 3,370 valid submissions, 20.1% acceptance rate).
 - *2026*: &nbsp;🎉 One paper published at ISSTA 2026.
-- *2025*: &nbsp;🎉 One paper published in IEEE TSE.
+- *2025.10*: &nbsp;🎉 One paper accepted to IEEE TSE.
 
 # 📝 Publications
 <sup>&#42;</sup> denotes corresponding author.
