@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Collaborators shown in the sidebar (name + homepage)
 collaborators:
-  - name: "Wenbo Guo"
-    url: "https://about.honywen.com/"
   - name: "Yiheng Xiong"
     url: "https://xyiheng.github.io/"
+  - name: "Wenbo Guo"
+    url: "https://about.honywen.com/"
 
 # Site Author
 author:
