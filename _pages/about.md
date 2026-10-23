@@ -27,14 +27,15 @@ Her research focuses on the security and testing of mobile apps and software sup
 - *2016.09 - 2020.06*, B.S. in Software Engineering, **Henan University**. Ranking 1/528.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 Selected as a member of the MSR 2027 Junior Program Committee (Junior PC).
 - *2026.10*: &nbsp;✈️ I will attend [ASE 2026](https://conf.researchr.org/home/ase-2026) in Munich, Germany (Oct 12–16).
 - *2026.09*: &nbsp;🏆 ISSTA 2026 paper received the ACM SIGSOFT Distinguished Paper Award (19 of 888 submissions, top 2.1%).
 - *2026.07*: &nbsp;🎉 Two papers accepted to ASE 2026 (263 of 1,304 submissions, 20.2% acceptance rate).
-- *2026.07*: &nbsp;🏆 Received the SMU Research Excellence Award.
 
 <details markdown="1">
-<summary>Show more (4)</summary>
+<summary>Show more (5)</summary>
 
+- *2026.07*: &nbsp;🏆 Received the SMU Research Excellence Award.
 - *2026.07*: &nbsp;✈️ Received an ACM SIGSOFT CAPS travel grant (up to $400) to attend ASE 2026 in person.
 - *2026.04*: &nbsp;🎉 One paper directly accepted to ISSTA 2026, without major revision (90 of 888 submissions were directly accepted, 10.1%).
 - *2026.01*: &nbsp;🎉 One paper accepted to The Web Conference (WWW) 2026 (676 of 3,370 valid submissions, 20.1% acceptance rate).
