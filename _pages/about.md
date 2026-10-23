@@ -74,6 +74,10 @@ Her research focuses on the security and testing of mobile apps and software sup
   **Shiwen Song**, Xuanyu Liu, Xiao Fu, Bin Luo, Xiaojiang Du, Mohsen Guizani<br>
   IEEE Global Communications Conference (GLOBECOM), 2021
 
+# 📫 Services
+- Junior Program Committee (Junior PC): MSR 2027
+- Reviewer: IEEE Transactions on Software Engineering (TSE) (2026)
+
 # 📜 Patents
 - **A Privacy Protection Method and System Preventing Misbehaving Mini-Apps Based on Deep Learning** (基于深度学习防止行为不端小程序的隐私保护方法及系统)  
   Xiao Fu, **Shiwen Song**, Yuzhu Sun, Xuanyu Liu, Bin Luo<br>
@@ -112,7 +116,3 @@ Her research focuses on the security and testing of mobile apps and software sup
 - *2017*: &nbsp;🎓 Henan University Scholarship, Henan University.
 
 </details>
-
-# 📫 Services
-- Junior Program Committee (Junior PC): MSR 2027
-- Reviewer: IEEE Transactions on Software Engineering (TSE) (2026)
