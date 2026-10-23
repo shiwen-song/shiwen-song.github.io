@@ -108,4 +108,4 @@ Her research focuses on the security and testing of mobile apps and software sup
 
 # 📫 Services
 - Junior Program Committee (Junior PC): MSR 2027
-- Reviewer: IEEE Transactions on Software Engineering (TSE)
+- Reviewer: IEEE Transactions on Software Engineering (TSE) (2026)
