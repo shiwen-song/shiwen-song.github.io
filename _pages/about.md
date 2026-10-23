@@ -105,3 +105,7 @@ Her research focuses on the security and testing of mobile apps and software sup
 - *2017*: &nbsp;🎓 Henan University Scholarship, Henan University.
 
 </details>
+
+# 📫 Services
+- Junior Program Committee (Junior PC): MSR 2027
+- Reviewer: IEEE Transactions on Software Engineering (TSE)
